@@ -1,0 +1,5 @@
+c unsat9: three units with contradiction
+p cnf 2 3
+1 0
+2 0
+-1 -2 0

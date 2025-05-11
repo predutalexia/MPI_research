@@ -1,0 +1,10 @@
+c med_unsat10: full binary unsat on 4 vars
+p cnf 4 8
+1  2  0
+1  -2 0
+-1 2  0
+-1 -2 0
+3  4   0
+3  -4  0
+-3 4   0
+-3 -4 0

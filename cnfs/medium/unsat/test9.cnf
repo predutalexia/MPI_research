@@ -1,0 +1,6 @@
+c med_unsat9: unit chain loops
+p cnf 3 4
+1  0
+-1 2  0
+-2 3  0
+-3 1  0

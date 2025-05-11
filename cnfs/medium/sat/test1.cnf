@@ -1,0 +1,12 @@
+c med_sat1: 6 vars, 10 clauses, simple extension
+p cnf 6 10
+1  2  0
+-1 3  0
+-2 -3 4  0
+4  5  6  0
+-4 -5 0
+2  -6 0
+3  6  0
+-3 -6 0
+1  -5 0
+-1 5  0

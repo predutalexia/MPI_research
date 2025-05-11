@@ -1,0 +1,5 @@
+c sat8: Horn chain ¬A, (A ∨ B), (¬B ∨ C)
+p cnf 3 3
+-1 0
+1 2 0
+-2 3 0

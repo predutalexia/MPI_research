@@ -1,0 +1,4 @@
+c unsat1: A and ¬A
+p cnf 1 2
+1 0
+-1 0
